@@ -1,0 +1,4 @@
+## PLANTILLA PARA API BÁSICA CON GRAPHQL
+
+-Resolvers
+-Schema
