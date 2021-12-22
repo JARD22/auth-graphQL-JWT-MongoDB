@@ -1,4 +1,6 @@
-## PLANTILLA PARA API BÁSICA CON GRAPHQL
+## API GraphQL, Autenticación mediante token JWT
 
 -Resolvers
 -Schema
+-Modularización
+-MongoDB
