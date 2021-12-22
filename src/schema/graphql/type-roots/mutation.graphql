@@ -1,0 +1,6 @@
+type Mutation{
+    "Registrar una nueva persona en la base de datos"
+    add(user:UserInput!):Boolean
+    "Cambiar informacion de usuario seleccionado"
+    update(user:UserInput!):Boolean!
+}   

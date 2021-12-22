@@ -1,8 +1,0 @@
-#DEFINICION DEL SCHEMA
-type Query{
-    users:[User!]!
-}
-
-type User{
-    id:ID!
-}

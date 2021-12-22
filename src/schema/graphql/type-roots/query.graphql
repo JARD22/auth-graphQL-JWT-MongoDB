@@ -1,0 +1,10 @@
+
+# #DEFINICION DEL SCHEMA
+type Query{
+    "Lista de usuarios de la base de datos"
+    users:[User!]!
+    "Inicio de sesion con credenciales"
+    login(email:String!, password:String!):String!
+    "Obtener nuestros datos mediante autenticacion por token"
+    me:String!
+}
